@@ -100,27 +100,6 @@ Enter the API key in the application sidebar before starting the interview.
 8. View the overall performance dashboard.
 9. Download the final interview report as a PDF.
 
----
-
-## 📸 Screenshots
-
-### Home Page
-
-*(Add screenshot here)*
-
-### Resume Upload
-
-*(Add screenshot here)*
-
-### Interview Session
-
-*(Add screenshot here)*
-
-### Performance Dashboard
-
-*(Add screenshot here)*
-
----
 
 ## 🔮 Future Improvements
 
